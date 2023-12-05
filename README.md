@@ -2,8 +2,8 @@
 Predicting someone’s physical health
 
 Nienke van de Kimmenade
-Hasty Shakibania
-Odongo Ser-Od
+,Hasty Shakibania
+,Odongo Ser-Od
  
 Introduction
 Our project involves the construction of three models, developed in-house and built upon a specific dataset. The primary objective of these models is to forecast an 
